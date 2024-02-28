@@ -1,0 +1,4 @@
+python-dotenv
+openai 0.28.1
+assemblyai 0.20.0
+flask
